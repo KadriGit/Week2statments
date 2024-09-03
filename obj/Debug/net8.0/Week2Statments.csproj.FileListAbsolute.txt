@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Week2Statments\Week2Statments\obj\Debug\net8.0\Week2Statments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Week2Statments\Week2Statments\obj\Debug\net8.0\Week2Statments.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Week2Statments\Week2Statments\obj\Debug\net8.0\Week2Statments.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Week2Statments\Week2Statments\obj\Debug\net8.0\Week2Statments.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Week2Statments\Week2Statments\bin\Debug\net8.0\Week2Statments.exe
+C:\Users\Lenovo\source\repos\Week2Statments\Week2Statments\bin\Debug\net8.0\Week2Statments.deps.json
+C:\Users\Lenovo\source\repos\Week2Statments\Week2Statments\bin\Debug\net8.0\Week2Statments.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Week2Statments\Week2Statments\bin\Debug\net8.0\Week2Statments.dll
+C:\Users\Lenovo\source\repos\Week2Statments\Week2Statments\bin\Debug\net8.0\Week2Statments.pdb
+C:\Users\Lenovo\source\repos\Week2Statments\Week2Statments\obj\Debug\net8.0\Week2Statments.dll
+C:\Users\Lenovo\source\repos\Week2Statments\Week2Statments\obj\Debug\net8.0\refint\Week2Statments.dll
+C:\Users\Lenovo\source\repos\Week2Statments\Week2Statments\obj\Debug\net8.0\Week2Statments.pdb
+C:\Users\Lenovo\source\repos\Week2Statments\Week2Statments\obj\Debug\net8.0\Week2Statments.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Week2Statments\Week2Statments\obj\Debug\net8.0\ref\Week2Statments.dll
